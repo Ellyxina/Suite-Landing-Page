@@ -1,6 +1,5 @@
 
-## Check out the live website at https://euphonious-daffodil-e.netlify.app/
-
+## Check out the live website at https://pleasant-daffodil.netlify.app/
 # Frontend Mentor - Suite landing page
 
 ![Design preview for the Suite landing page coding challenge](./preview.jpg)
